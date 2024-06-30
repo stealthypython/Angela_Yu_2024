@@ -1,4 +1,4 @@
-numofletters = len("Angela")
-print(numofletters)
-name = input("What is your name? ")
-print(f"Wow, {name} is a great name!")
+print("Welcome to the Band name generator.")
+city = input("What's the name of the city you grew up in? ")
+pet = input("What's your pet's name? ")
+print("Your band name could be " + city + " " + pet)
